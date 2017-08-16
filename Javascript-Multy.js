@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="how-alcohol-causes-mental-and-moral.html"}
-if(x=="2"){xxx="how-alcohol-retards-digestion.html"}
-if(x=="3"){xxx="medical-testimony-on-alcohol.html"}
-if(x=="4"){xxx="mental-disturbances-caused-by-alcohol.html"}
-if(x=="5"){xxx="how-alcohol-affects-brain.html"}a_to_ve[i].href="http://www.sosialmagz.com/2017/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="child-blessing-crate-thoughts.html"}
+if(x=="2"){xxx="one-baby-bash-coming-up.html"}
+if(x=="3"){xxx="infant-beanies-infant-toy-ever.html"}
+if(x=="4"){xxx="the-child-bedding-challenge.html"}
+if(x=="5"){xxx="infant-diversion-shower-child.html"}a_to_ve[i].href="http://www.sosialmagz.com/2017/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
